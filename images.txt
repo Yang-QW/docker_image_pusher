@@ -1,2 +1,2 @@
-tomcat:9.0.93-jdk8-corretto
+mysql:8.4.2
 
