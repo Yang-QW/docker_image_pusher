@@ -1,2 +1,2 @@
-python:3.10.13-alpine --platform linux/amd64
+--platform linux/arm64 python:3.10.13-alpine
 
