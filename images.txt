@@ -1,2 +1,2 @@
-tomcat:9.0.93-jdk11-corretto
+python:3.10.13-alpine --platform linux/amd64
 
