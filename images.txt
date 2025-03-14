@@ -1,1 +1,1 @@
---platform linux/arm64 mysql:8.0.39
+python:3.10-alpine3.21
