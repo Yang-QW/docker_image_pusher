@@ -1,1 +1,1 @@
-python:3.10-alpine3.21
+--platform linux/arm64 openjdk:8u151-jdk-slim-stretch
