@@ -1,1 +1,1 @@
-python:3.11-slim
+vemlp-cn-beijing.cr.volces.com/preset-images/mirror:ubuntu-focal-20231211
