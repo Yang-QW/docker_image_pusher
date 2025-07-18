@@ -1,1 +1,1 @@
---platform linux/arm64 openjdk:8u151-jdk-slim-stretch
+python:3.11-slim
