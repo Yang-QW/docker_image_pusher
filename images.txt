@@ -1,1 +1,1 @@
-volcengine/sandbox-fusion:server-20250609
+jenkins/jenkins:2.452-jdk11
